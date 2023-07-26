@@ -1,3 +1,3 @@
 # A simple CV App
 
-## Vite + React + TypeScript + Vercel + Tailwind CSS
+Made with Vite + React + TypeScript + Vercel + Tailwind CSS
